@@ -1,7 +1,7 @@
 ---
 title: My personalised induction to Github
 ---
-Hello World, this is my very first website created using http://www.github.com/
+Hello World, this is my very first website created using [GitHub](http://github.com)
 
 # Structured documents
 
