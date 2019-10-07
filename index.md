@@ -3,17 +3,11 @@ title: My personalised induction to Github
 ---
 # Introduction
 
-Hello World, this is my very first website created using [GitHub](http://github.com) and [Jekyll](https://jekyllrb.com). 
+Hello World, this is my very first website created using [GitHub](http://github.com) and [Jekyll](https://jekyllrb.com). Thanks to my new friends, I can now show to the wolrd my [agent-based modelling](https://en.wikipedia.org/wiki/Agent-based_model) project which I have worked on for the past month. 
 
-# Structured documents
+But first, a little bit about *wine*. Why wine? Well, basically the theme for this webpage is called _*Merlot*_, which is named after [a very popular dark blue wine](https://en.wikipedia.org/wiki/Merlot). 
 
-Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
+Make sure you enjoy the model I created as you would relish a glass of refined merlot! I'll leave you the following quote below as guideline.
 
-### This is a third-tier heading
-
-You can use one `#` all the way up to `######` six for different heading sizes.
-
-If you'd like to quote someone, use the > character before the line:
-
-> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
-> - Captain Janeway
+> He who knows how to taste does not drink wine but savours secrets.      
+                                             - Salvador Dalì.
