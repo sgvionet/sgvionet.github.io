@@ -1,9 +1,7 @@
 ---
-title: My personal induction to Github
+title: My personalised induction to Github
 ---
-
-
-Hello World
+Hello World, this is my very first website created using http://www.github.com/
 
 # Structured documents
 
