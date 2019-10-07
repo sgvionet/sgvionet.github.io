@@ -1,0 +1,97 @@
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=640">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=3c320912ea2e4027d7c5981a386fae7a009343a7" media="screen">
+    <link rel="stylesheet" href="/assets/css/mobile.css" media="handheld, only screen and (max-device-width:640px)">
+    <link rel="stylesheet" href="/assets/css/non-screen.css" media="handheld, only screen and (max-device-width:640px)">
+
+    <script src="/assets/js/modernizr.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="/assets/js/headsmart.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>My personalised induction to Github | sgvionet.github.io</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="My personalised induction to Github" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://sgvionet.github.io/" />
+<meta property="og:url" content="https://sgvionet.github.io/" />
+<meta property="og:site_name" content="Hello World" />
+<script type="application/ld+json">
+{"@type":"WebSite","url":"https://sgvionet.github.io/","headline":"My personalised induction to Github","name":"sgvionet.github.io","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+    <a id="forkme_banner" href="https://github.com/sgvionet/sgvionet.github.io">View on GitHub</a>
+    <div class="shell">
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>sgvionet.github.io</h1>
+            <h2></h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+      
+        <div id="no-downloads">
+          <span class="inner">
+          </span>
+        </div>
+      
+
+
+      <span class="banner-fix"></span>
+
+
+      <section id="main_content">
+        <h1 id="introduction">Introduction</h1>
+
+<p>Hello World, this is my very first website created using <a href="http://github.com">GitHub</a> and <a href="https://jekyllrb.com">Jekyll</a>. Thanks to my new friends, I can now show to the wolrd my <a href="https://en.wikipedia.org/wiki/Agent-based_model">agent-based modelling</a> project which I have worked on for the past month.</p>
+
+<p>But first, a little bit about <strong><em>wine</em></strong>. Why wine? Well, basically the theme for this webpage is called <strong>Merlot</strong>, which is named after <a href="https://en.wikipedia.org/wiki/Merlot">a very popular dark blue wine</a>.</p>
+
+<p>Make sure you enjoy the model I created as you would relish a glass of refined merlot! I’ll leave you the following quote below as guideline.</p>
+
+<blockquote>
+  <p>He who knows how to taste does not drink wine but savours secrets. 
+                              - Salvador Dalì.</p>
+</blockquote>
+
+<p><img src="https://github.com/sgvionet/sgvionet.github.io/blob/master/glass_vineyard.jpeg" alt="WinePic" /></p>
+
+      </section>
+
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            
+            
+              <p>Projects by <a href="https://github.com/sgvionet">sgvionet</a> can be found on <a href="https://github.com/sgvionet/sgvionet.github.io">GitHub</a></p>
+            
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <span class="octocat"></span>
+      </footer>
+
+    </div>
+
+    
+  </body>
+</html>
