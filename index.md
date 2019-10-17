@@ -13,4 +13,4 @@ Make sure you enjoy the model I created as you would relish a glass of refined m
                               - Salvador Dalì.
                              
                              
-![WinePic](https://github.com/sgvionet/sgvionet.github.io/tree/master/Pictures/glass_vineyard.jpeg)
+![WinePic](https://github.com/sgvionet/sgvionet.github.io/glass_vineyard.jpeg)
