@@ -1,5 +1,5 @@
 ---
-title: My personalised induction to Github
+title: About me 
 ---
 
 # About me 
