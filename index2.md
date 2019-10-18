@@ -16,4 +16,6 @@ Email: V.Ionete@liverpool.ac.uk
 
 Twitter: [@VladIonete](https://twitter.com/VladIonete)
 
+![VladPic](https://twitter.com/VladIonete/photo)
+
 [<- Back to Introduction Page](https://sgvionet.github.io/index.html)
