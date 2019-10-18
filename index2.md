@@ -13,6 +13,7 @@ If you want to follow the development of my project or contact me, I'll leave be
 ### Personal details
 
 Email: V.Ionete@liverpool.ac.uk
+
 Twitter: [@VladIonete](https://twitter.com/VladIonete)
 
 [<- Back to Introduction Page](https://sgvionet.github.io/index.html)
