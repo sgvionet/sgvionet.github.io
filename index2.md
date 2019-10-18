@@ -8,7 +8,7 @@ My name is Vlad Ionete and I am currently a student at [The University of Liverp
 
 My project will consist of further developing HSE's already existing spatio‐temporal population model with new forms of data. To put it simple, such a model is constructed to predict real-time population in different areas in order to assist risk assesments and mitigate emergency situations impact. If you want to find out more about similar work, I recommend reading [Ahola et al.'s (2007)](https://www.tandfonline.com/doi/full/10.1080/13658810701349078) or [Renner's et al.'s (2018)](https://www.sciencedirect.com/science/article/pii/S2212420917303345) journal articles, which explain the development and uses of such models in detail. 
 
-If you want to follow the development of my project, I'll leave below a few contact details.
+If you want to follow the development of my project or contact me, I'll leave below a few details.
 
 ### Personal details
 
