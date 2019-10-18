@@ -12,7 +12,7 @@ If you want to follow the development of my studies or the project, I'll leave b
 
 ### Personal details
 
-:round_pushpin: Liverpool, :GB:
+:round_pushpin: Liverpool, :UK:
 :email: V.Ionete@liverpool.ac.uk
 Twitter: [@VladIonete](https://twitter.com/VladIonete)
 
